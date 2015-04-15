@@ -1,1 +1,24 @@
 /* Your Styling */
+
+.container {
+	margin: 0 auto;
+	width: 50%;
+}
+
+h2, h3{
+	font-family: 'Merriweather', serif;
+	text-transform: uppercase;
+}
+
+p, li{
+	font-family: 'Merriweather', serif;
+}
+
+.dropcap {
+	font-size: 3em;
+	background-color: lightblue;
+	color: white;
+	padding: .25em;
+	margin: .025em;
+	float: left;
+}
